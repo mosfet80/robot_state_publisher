@@ -2,8 +2,8 @@
 Changelog for package robot_state_publisher
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.15.3 (2025-04-10)
+-------------------
 * Drop CXX standards for log4cxx (`#190 <https://github.com/ros/robot_state_publisher/issues/190>`_)
 * Added launch parameter for listener queue size. (`#222 <https://github.com/ros/robot_state_publisher/issues/222>`_)
 * Upgrade to C++17 for compatibility with Eigen 3.40.90 (`#208 <https://github.com/ros/robot_state_publisher/issues/208>`_)
